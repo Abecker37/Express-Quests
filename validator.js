@@ -48,6 +48,6 @@ const validateUser = (req, res, next) => {
 module.exports = {
 
     validateMovie,
-    validateUser,
+    validateUser,   
 
 };
